@@ -1,9 +1,8 @@
 (1) 실행 방법:
-Team8-Phase3.zip의 압축을 풀고 프로젝트 전체를 eclipse 상에서 프로젝트 열기를 합니다.
 JDBC.java를 eclipse 상에서 실행합니다.
 
 (2) 실행 주의 사항:
-기존 Phase 2의 Team8-Phase-2-1.sql와 Team8-Phase-2-2.sql에 대해 데이터가 DB상에 추가되어있어야합니다.
+기존 Phase 2의 스키마와 데이터가 DB상에 추가되어있어야합니다.
 JDBC.java를 실행하기전에 eclipse 상에서 ojdbc8.jar를 라이브러리로 추가해 드라이버를 불러와야합니다.
 DB가 가동되어있는 상태에서 JDBC.java를 실행하여야합니다.
 
