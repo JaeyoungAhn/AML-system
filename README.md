@@ -1,4 +1,16 @@
 # AML-system
+![Uploading image.jpg...](/Presentation/1.png)
+![Uploading image.jpg...](/Presentation/2.png)
+![Uploading image.jpg...](/Presentation/3.png)
+![Uploading image.jpg...](/Presentation/4.png)
+![Uploading image.jpg...](/Presentation/5.png)
+![Uploading image.jpg...](/Presentation/6.png)
+![Uploading image.jpg...](/Presentation/7.png)
+![Uploading image.jpg...](/Presentation/8.png)
+![Uploading image.jpg...](/Presentation/9.png)
+![Uploading image.jpg...](/Presentation/10.png)
+![Uploading image.jpg...](/Presentation/11.png)
+![Uploading image.jpg...](/Presentation/12.png)
 
 ## (1) 웹서비스 시작 전, Trigger 실행  
 
